@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "json": "^9.0.6",
+    "json": "^10.0.0",
     "mysql": "^2.18.1",
     "path": "^0.12.7",
     "pug": "^3.0.0",
